@@ -1,6 +1,6 @@
 # Hi there, I'm Ankit Kumar 👋
 
-I'm a second-year Computer Science and Engineering undergraduate at IIT Goa.
+I'm a third-year Computer Science and Engineering undergraduate at IIT Goa.
 
 I enjoy solving algorithmic problems, studying data structures and algorithms, and building systems that work efficiently at scale. My primary interests lie in competitive programming, backend development, distributed systems, real-time applications and software engineering.
 
